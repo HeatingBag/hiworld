@@ -7,6 +7,6 @@
 public class Hiworld {
 
     public static void main(String[] args) {
-        System.out.println("Hi World");
+        System.out.println("究极无敌折磨王GIT");
     }
 }
